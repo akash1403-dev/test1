@@ -1,0 +1,12 @@
+body
+{
+background-image: url("test5.jpg");
+background-position: center;
+h1 {
+color: black;
+font-size: 34px;
+}
+p {
+color: purple;
+font-size: 25px;
+}
